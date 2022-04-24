@@ -1,5 +1,8 @@
-# ignore csv file
-vine_table.csv
+# Ignored files
+*.csv
+.DS_Store
+vine_table
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
